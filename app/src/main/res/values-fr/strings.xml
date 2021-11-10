@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TAF-METAR Projet</string>
+    <string name="OACI">Enter OACI</string>
+    <string name="btn">Go</string>
+    <string name="decode">Taf Metar Decodés</string>
+    <string name="code">Taf Metar Codés</string>
+    <string name="map">Map</string>
+    <string name="not_found">OACI N existe pas, Cliquer sur ajouter!</string>
+    <string name="nadd">Rien à Ajouter</string>
+    <string name="Invalid_oaci">OACI n existe pas</string>
+    <string name="Already_Existed">OACI déjà existe</string>
+    <string name="Added">OACI ajouté</string>
+    <string name="No_Internet_Connection">Pas d internet</string>
+    <string name="error_oaci_not_valid">Erreur: OACI NON VALIDE</string>
+    <string name="No_internet_connection">Pas d internet</string>
+    <string name="deleted">OACI Suprimé</string>
+    <string name="edited">OACI Modifié</string>
+    <string name="Cancel">Annuler</string>
+    <string name="OK">Valider</string>
+    <string name="change_oaci">Changer OACI</string>
+    <string name="Coded">Codé</string>
+    <string name="Decoded">Decodé</string>
+    <string name="In_Map">Sur Map</string>
+    <string name="Airport">Aéoroport</string>
+    <string name="This_is">C est le</string>
+</resources>

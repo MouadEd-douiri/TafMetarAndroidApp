@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="4dp"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:id="@+id/layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/item_background">
+
+        <ImageView
+            android:id="@+id/flight"
+            android:layout_width="40sp"
+            android:layout_height="40sp"
+            android:layout_gravity="end"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/ic_baseline_flight_24"
+            app:tint="#1A2873" />
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="helllllooo"
+            android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_weight="0.5"
+            android:id="@+id/title_item"/>
+
+        <ImageView
+            android:id="@+id/edit"
+            android:layout_width="40sp"
+            android:layout_height="40sp"
+            android:layout_gravity="end"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/ic_baseline_edit_24"
+            app:tint="#46EC21" />
+        <ImageView
+            android:id="@+id/delete"
+            android:layout_width="40sp"
+            android:layout_height="40sp"
+            android:layout_gravity="end"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/ic_baseline_delete"
+            app:tint="#EC2121" />
+
+
+    </LinearLayout>
+</LinearLayout>

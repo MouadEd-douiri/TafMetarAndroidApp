@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="OACI">Enter OACI</string>
+    <string name="btn">Go</string>
+    <string name="decode">Taf Metar Decoded</string>
+    <string name="code">Taf Metar Coded</string>
+    <string name="map">Map</string>
+    <string name="not_found">Not Found, Click Add!</string>
+    <string name="nadd">Nothing To Add</string>
+    <string name="Invalid_oaci">Invalid OACI</string>
+    <string name="Already_Existed">Already Existed</string>
+    <string name="Added">Added</string>
+    <string name="No_Internet_Connection">No Internet Connection</string>
+    <string name="error_oaci_not_valid">Error: OACI NOT VALIDE</string>
+    <string name="No_internet_connection">No Internet Connection</string>
+    <string name="deleted">Deleted</string>
+    <string name="edited">Edited</string>
+    <string name="Cancel">Cancel</string>
+    <string name="OK">OK</string>
+    <string name="change_oaci">Change OACI</string>
+    <string name="Coded">Coded</string>
+    <string name="Decoded">Decoded</string>
+    <string name="In_Map">In Map</string>
+    <string name="Airport">Airport</string>
+    <string name="This_is">This is</string>
+</resources>

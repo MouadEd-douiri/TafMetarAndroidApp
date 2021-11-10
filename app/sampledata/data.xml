@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TAF>
+    <raw_text>TAF LFPG 191100Z 1912/2018 20010KT CAVOK TX22/1914Z TN15/2002Z BECMG 2003/2005 22015G25KT PROB40 TEMPO 2010/2012 SHRA SCT025TCU TEMPO 2012/2016 22020G35KT</raw_text>
+    <station_id>LFPG</station_id>
+    <issue_time>2021-10-19T11:00:00Z</issue_time>
+    <bulletin_time>2021-10-19T11:00:00Z</bulletin_time>
+    <valid_time_from>2021-10-19T12:00:00Z</valid_time_from>
+    <valid_time_to>2021-10-20T18:00:00Z</valid_time_to>
+    <latitude>49.02</latitude>
+    <longitude>2.53</longitude>
+    <elevation_m>107.0</elevation_m>
+</TAF>

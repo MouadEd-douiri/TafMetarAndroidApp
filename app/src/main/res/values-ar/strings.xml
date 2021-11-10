@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projet</string>
+    <string name="OACI">Enter OACI</string>
+    <string name="btn">Go</string>
+    <string name="decode">Taf Metar Decodés</string>
+    <string name="code">Taf Metar Codés</string>
+    <string name="map">Map</string>
+    <string name="not_found">لايوجد</string>
+    <string name="nadd">المعذرة لايمكن الاضافة</string>
+    <string name="Invalid_oaci">لايوجد</string>
+    <string name="Already_Existed">موجود مسبقا</string>
+    <string name="Added">لقد تمت الاضافة</string>
+    <string name="No_Internet_Connection"> لايوجدالانترنت </string>
+    <string name="error_oaci_not_valid"> لايوجدالمعذرة</string>
+    <string name="No_internet_connection">لايوجدالانترنت</string>
+    <string name="deleted">تم مسحه</string>
+    <string name="edited">تم التغيير</string>
+    <string name="Cancel">الغاء</string>
+    <string name="OK">تاكيد</string>
+    <string name="change_oaci">تغيير</string>
+    <string name="Coded">مشفر</string>
+    <string name="Decoded">غير مشفر</string>
+    <string name="In_Map">الخريطة</string>
+    <string name="Airport">المطار</string>
+    <string name="This_is">انه</string>
+</resources>
